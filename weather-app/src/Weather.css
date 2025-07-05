@@ -1,0 +1,32 @@
+.app {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+.input-section {
+  margin-bottom: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  width: 200px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-left: 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.weather-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-top: 1rem;
+  display: inline-block;
+  text-align: left;
+  background: #f0f0f0;
+  border-radius: 10px;
+}
